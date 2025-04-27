@@ -1,6 +1,8 @@
 
 Health Information System API
+
 Overview
+
 This is a simple health information system designed for medical professionals to manage client health records and program enrollments. The system allows doctors to:
 
 Create and manage health programs (like TB, Malaria, HIV treatment programs)
